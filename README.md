@@ -5,3 +5,5 @@ Silliest html project
 
 How to install comic?
 Ples Go to Releases to Download
+
+![Here's a Breakdown](/howtoplay.png)
