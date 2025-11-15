@@ -1,3 +1,10 @@
-# Super-Xue-Kart-Memes
-Boring? no problem I make html from turbowarp project some cool interactive games and meme vidoes
-Make sure go to Releases to see any lot of memes html.
+# Super-Xue-Comics
+Silliest html project
+
+![What i did...](/banner.png)
+
+How to install comic?
+
+1. click onto SXK COMICS.html
+2. Download raw file
+3. Run HTML and Enjoy!!
